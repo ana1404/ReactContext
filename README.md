@@ -1,2 +1,0 @@
-# ReactContext
-Primjer Context
